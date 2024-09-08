@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Dao.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Dao.csproj|solutionrelative:candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_businessobjects\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_businessobjects\\models\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Dao.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Dao.csproj|solutionrelative:candidate_dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_businessobjects\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_businessobjects\\models\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\models\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|solutionrelative:candidate_repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_businessobjects\\candidate_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2253777C-476D-4945-A3AA-06B2C5057248}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\candidate_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_repositories\\candidate_repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|solutionrelative:candidate_repositories\\candidate_repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidatemanagement_vuthanhdat\\candidatemanagement_vuthanhdat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|solutionrelative:candidatemanagement_vuthanhdat\\candidatemanagement_vuthanhdat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:11:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hraccount.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\Hraccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:11:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:11:07.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Models\\CandidateManagementContext.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Models\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Models\\CandidateManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:11:05.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Class1.cs",
+              "RelativeDocumentMoniker": "Candidate_Dao\\Class1.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Class1.cs",
+              "RelativeToolTip": "Candidate_Dao\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:48:49.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_Dao\\HRAccountDAO.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\HRAccountDAO.cs",
+              "RelativeToolTip": "Candidate_Dao\\HRAccountDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:52:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "Candidate_Repositories\\Class1.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\Class1.cs",
+              "RelativeToolTip": "Candidate_Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:09:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Candidate_BusinessObjects.csproj",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "RelativeToolTip": "Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T10:04:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate_Repositories.csproj",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\Candidate_Repositories.csproj",
+              "RelativeDocumentMoniker": "Candidate_Repositories\\Candidate_Repositories.csproj",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\Candidate_Repositories.csproj",
+              "RelativeToolTip": "Candidate_Repositories\\Candidate_Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T09:44:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateManagement_VuThanhDat.csproj",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj",
+              "RelativeToolTip": "CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T09:08:01.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

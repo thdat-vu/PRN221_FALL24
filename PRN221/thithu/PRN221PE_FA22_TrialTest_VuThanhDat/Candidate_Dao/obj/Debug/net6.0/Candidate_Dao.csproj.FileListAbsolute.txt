@@ -1,0 +1,5 @@
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Dao.csproj.AssemblyReference.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Dao.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Dao.AssemblyInfoInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Dao.AssemblyInfo.cs
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Dao.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.csproj.AssemblyReference.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.AssemblyInfoInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.AssemblyInfo.cs
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.csproj.CoreCompileInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\bin\Debug\net6.0\Candidate_Daos.deps.json
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\bin\Debug\net6.0\Candidate_Daos.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\bin\Debug\net6.0\Candidate_Daos.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidat.B5631F97.Up2Date
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\refint\Candidate_Daos.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\Candidate_Daos.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Dao\obj\Debug\net6.0\ref\Candidate_Daos.dll

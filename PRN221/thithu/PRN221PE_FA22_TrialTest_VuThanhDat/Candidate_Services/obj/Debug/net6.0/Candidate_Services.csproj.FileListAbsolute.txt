@@ -1,0 +1,17 @@
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.csproj.AssemblyReference.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.AssemblyInfoInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.AssemblyInfo.cs
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.csproj.CoreCompileInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_Services.deps.json
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_Services.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_Services.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_Repositories.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_Repositories.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidat.40C0EC35.Up2Date
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\refint\Candidate_Services.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\Candidate_Services.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Services\obj\Debug\net6.0\ref\Candidate_Services.dll
