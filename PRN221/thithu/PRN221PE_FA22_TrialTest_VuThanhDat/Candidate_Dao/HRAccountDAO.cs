@@ -1,4 +1,5 @@
 ﻿using Candidate_BusinessObjects.Models;
+using Candidate_Daos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace Candidate_Dao
     {
         private CandidateManagementContext HRContext;
         private static HRAccountDAO instance = null;
+        //Single tone 
         public static HRAccountDAO Instance 
         { 
             get
@@ -27,6 +29,7 @@ namespace Candidate_Dao
             HRContext = new CandidateManagementContext();
         }
         
+        // no return True / false
         public Hraccount GetHrAccount(string email)
         {
             return HRContext.Hraccounts.SingleOrDefault(m => m.Email.Equals(email));

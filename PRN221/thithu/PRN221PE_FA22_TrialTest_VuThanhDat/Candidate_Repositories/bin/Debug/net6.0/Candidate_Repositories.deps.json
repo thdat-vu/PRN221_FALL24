@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Candidate_Repositories/1.0.0": {
         "dependencies": {
-          "Candidate_Dao": "1.0.0"
+          "Candidate_Daos": "1.0.0"
         },
         "runtime": {
           "Candidate_Repositories.dll": {}
@@ -472,6 +472,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Candidate_Daos/1.0.0": {
+        "dependencies": {
+          "Candidate_BusinessObjects": "1.0.0"
+        },
+        "runtime": {
+          "Candidate_Daos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -762,6 +773,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Candidate_BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Candidate_Daos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

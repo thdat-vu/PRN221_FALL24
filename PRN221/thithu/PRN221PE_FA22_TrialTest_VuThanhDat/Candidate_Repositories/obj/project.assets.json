@@ -751,17 +751,17 @@
           "bin/placeholder/Candidate_BusinessObjects.dll": {}
         }
       },
-      "Candidate_Dao/1.0.0": {
+      "Candidate_Daos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Candidate_BusinessObjects": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Candidate_Dao.dll": {}
+          "bin/placeholder/Candidate_Daos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Candidate_Dao.dll": {}
+          "bin/placeholder/Candidate_Daos.dll": {}
         }
       }
     }
@@ -1934,15 +1934,15 @@
       "path": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj",
       "msbuildProject": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj"
     },
-    "Candidate_Dao/1.0.0": {
+    "Candidate_Daos/1.0.0": {
       "type": "project",
-      "path": "../Candidate_Dao/Candidate_Dao.csproj",
-      "msbuildProject": "../Candidate_Dao/Candidate_Dao.csproj"
+      "path": "../Candidate_Dao/Candidate_Daos.csproj",
+      "msbuildProject": "../Candidate_Dao/Candidate_Daos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Candidate_Dao >= 1.0.0"
+      "Candidate_Daos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1972,8 +1972,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Dao.csproj": {
-              "projectPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Dao.csproj"
+            "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Daos.csproj": {
+              "projectPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Daos.csproj"
             }
           }
         }

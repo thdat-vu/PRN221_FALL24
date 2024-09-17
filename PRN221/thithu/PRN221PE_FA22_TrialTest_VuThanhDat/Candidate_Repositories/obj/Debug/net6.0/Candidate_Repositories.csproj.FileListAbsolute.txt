@@ -7,6 +7,8 @@ E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.dll
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.pdb
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_Daos.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_Daos.pdb
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\obj\Debug\net6.0\Candidat.0571E3D3.Up2Date
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.dll

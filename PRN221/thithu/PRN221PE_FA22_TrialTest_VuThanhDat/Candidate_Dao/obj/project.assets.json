@@ -1933,9 +1933,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Dao.csproj",
-      "projectName": "Candidate_Dao",
-      "projectPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Dao.csproj",
+      "projectUniqueName": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Daos.csproj",
+      "projectName": "Candidate_Daos",
+      "projectPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\Candidate_Daos.csproj",
       "packagesPath": "C:\\Users\\vutha\\.nuget\\packages\\",
       "outputPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\obj\\",
       "projectStyle": "PackageReference",

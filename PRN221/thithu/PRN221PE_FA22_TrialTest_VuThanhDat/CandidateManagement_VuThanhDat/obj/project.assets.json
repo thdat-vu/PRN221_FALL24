@@ -751,24 +751,24 @@
           "bin/placeholder/Candidate_BusinessObjects.dll": {}
         }
       },
-      "Candidate_Dao/1.0.0": {
+      "Candidate_Daos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Candidate_BusinessObjects": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Candidate_Dao.dll": {}
+          "bin/placeholder/Candidate_Daos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Candidate_Dao.dll": {}
+          "bin/placeholder/Candidate_Daos.dll": {}
         }
       },
       "Candidate_Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Candidate_Dao": "1.0.0"
+          "Candidate_Daos": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Candidate_Repositories.dll": {}
@@ -1960,10 +1960,10 @@
       "path": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj",
       "msbuildProject": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj"
     },
-    "Candidate_Dao/1.0.0": {
+    "Candidate_Daos/1.0.0": {
       "type": "project",
-      "path": "../Candidate_Dao/Candidate_Dao.csproj",
-      "msbuildProject": "../Candidate_Dao/Candidate_Dao.csproj"
+      "path": "../Candidate_Dao/Candidate_Daos.csproj",
+      "msbuildProject": "../Candidate_Dao/Candidate_Daos.csproj"
     },
     "Candidate_Repositories/1.0.0": {
       "type": "project",
