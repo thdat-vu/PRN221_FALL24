@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candidate_Services", "Candi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candidate_Daos", "Candidate_Dao\Candidate_Daos.csproj", "{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateUtils", "CandidateUtils\CandidateUtils.csproj", "{56D9B310-ABED-4055-BDCB-EA3B63AD95C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateRazorWeb", "CandidateRazorWeb\CandidateRazorWeb.csproj", "{52AF3563-D092-4A5A-8926-D1BFF41A5124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D9B310-ABED-4055-BDCB-EA3B63AD95C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D9B310-ABED-4055-BDCB-EA3B63AD95C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D9B310-ABED-4055-BDCB-EA3B63AD95C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D9B310-ABED-4055-BDCB-EA3B63AD95C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AF3563-D092-4A5A-8926-D1BFF41A5124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF3563-D092-4A5A-8926-D1BFF41A5124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF3563-D092-4A5A-8926-D1BFF41A5124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF3563-D092-4A5A-8926-D1BFF41A5124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

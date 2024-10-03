@@ -5,28 +5,41 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CandidateManagement_VuThanhDat"
         mc:Ignorable="d"
-        Title="JobPosting" Height="900" Width="800">
+        Title="JobPosting" Height="900" Width="800" Loaded="Window_Loaded">
     <Grid>
-        <Label Content="JOB POSTING SCREEN" HorizontalAlignment="Left" Margin="272,25,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="26"/>
-        <Label Content="PostingID" HorizontalAlignment="Left" Margin="56,86,0,0" VerticalAlignment="Top"/>
-        <Label Content="Title" HorizontalAlignment="Left" Margin="56,132,0,0" VerticalAlignment="Top"/>
-        <Label Content="Description" HorizontalAlignment="Left" Margin="56,247,0,0" VerticalAlignment="Top"/>
-        <Label Content="PostDate" HorizontalAlignment="Left" Margin="56,191,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtPostingID" HorizontalAlignment="Left" Margin="182,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="575" FontSize="18"/>
-        <TextBox x:Name="txtTitle" HorizontalAlignment="Left" Margin="182,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="575" FontSize="18"/>
-        <DatePicker x:Name="dataPostDate" HorizontalAlignment="Left" Margin="182,204,0,0" VerticalAlignment="Top" Width="575"/>
-        <RichTextBox x:Name="txtDescription" Margin="182,260,43,531">
-            <FlowDocument>
-                <Paragraph>
-                    <Run Text=""/>
-                </Paragraph>
-            </FlowDocument>
-        </RichTextBox>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="56,424,43,257"/>
-        <Button x:Name="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="38,675,0,0" VerticalAlignment="Top" FontSize="24" Height="74" Width="153"/>
-        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="214,675,0,0" VerticalAlignment="Top" FontSize="24" Height="73" Width="168" RenderTransformOrigin="-0.014,0.481"/>
-        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="400,676,0,0" VerticalAlignment="Top" FontSize="24" Height="73" Width="168"/>
-        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="589,676,0,0" VerticalAlignment="Top" FontSize="24" Height="73" Width="168"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="28*"/>
+            <ColumnDefinition Width="71*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="32*"/>
+            <ColumnDefinition Width="43*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="JOB POSTING SCREEN" HorizontalAlignment="Left" Margin="134,25,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="26" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Label Content="CandidateID" HorizontalAlignment="Left" Margin="52,86,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="52,132,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="52,247,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <Label Content="PostDate" HorizontalAlignment="Left" Margin="52,191,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <TextBox x:Name="txtPostingID" HorizontalAlignment="Left" Margin="44,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="574" FontSize="18" Grid.Column="4" Grid.ColumnSpan="4"/>
+        <TextBox x:Name="txtTitle" HorizontalAlignment="Left" Margin="44,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="574" FontSize="18" Grid.Column="4" Grid.ColumnSpan="4"/>
+        <DatePicker x:Name="dataPostDate" HorizontalAlignment="Left" Margin="44,204,0,0" VerticalAlignment="Top" Width="574" Grid.Column="4" Grid.ColumnSpan="4"/>
+        <DataGrid x:Name="dtgJobPosting" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="53,424,42,331" Grid.ColumnSpan="7" RenderTransformOrigin="0.5,0.5" Grid.Column="1">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.894"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-1.584"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Button x:Name="btnCreate" Content="Create" HorizontalAlignment="Left" Margin="37,628,0,0" VerticalAlignment="Top" FontSize="24" Height="74" Width="153" Background="#FFEB0D0D" Grid.ColumnSpan="4" Click="btnCreate_Click" Grid.Column="1"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="94,630,0,0" VerticalAlignment="Top" FontSize="24" Height="73" Width="168" RenderTransformOrigin="-0.014,0.481" Background="#FFE8EB0F" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="136,630,0,0" VerticalAlignment="Top" FontSize="24" Height="72" Width="168" Background="#FF0EC7DD" Grid.Column="5"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="309,630,0,0" VerticalAlignment="Top" FontSize="24" Height="73" Width="168" Background="#FFEBF2F3" Grid.Column="5" RenderTransformOrigin="0.523,0.099" Click="btnClose_Click" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="txtDescription" HorizontalAlignment="Left" Margin="44,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="555" FontSize="18" Grid.Column="4" Grid.ColumnSpan="4" Height="79"/>
 
     </Grid>
 </Window>

@@ -3,32 +3,104 @@
   "WorkspaceRootPath": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_repositories\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|solutionrelative:candidate_repositories\\jobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_repositories\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BED84A91-28BE-4F15-977C-76F95F90B0FD}|Candidate_Repositories\\Candidate_Repositories.csproj|solutionrelative:candidate_repositories\\ijobpostingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|solutionrelative:candidate_dao\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|solutionrelative:candidate_dao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5680D6A5-4650-40FB-BAE5-927A1DCAFF47}|Candidate_Dao\\Candidate_Daos.csproj|solutionrelative:candidate_dao\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidatemanagement_vuthanhdat\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|solutionrelative:candidatemanagement_vuthanhdat\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidatemanagement_vuthanhdat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|solutionrelative:candidatemanagement_vuthanhdat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\jobpostingpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\pages\\profilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\profilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidaterazorweb\\candidaterazorweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52AF3563-D092-4A5A-8926-D1BFF41A5124}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\candidaterazorweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|e:\\newuniversitystuff\\prn221\\thithu\\prn221pe_fa22_trialtest_vuthanhdat\\candidatemanagement_vuthanhdat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6211D0AF-A03B-44E5-8190-277ADF6424F4}|CandidateManagement_VuThanhDat\\CandidateManagement_VuThanhDat.csproj|solutionrelative:candidatemanagement_vuthanhdat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +110,308 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Program.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Program.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:52:19.984Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobPostingRepo.cs",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\JobPostingRepo.cs",
-              "RelativeDocumentMoniker": "Candidate_Repositories\\JobPostingRepo.cs",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\JobPostingRepo.cs",
-              "RelativeToolTip": "Candidate_Repositories\\JobPostingRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T10:08:36.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IJobPostingRepo.cs",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\IJobPostingRepo.cs",
-              "RelativeDocumentMoniker": "Candidate_Repositories\\IJobPostingRepo.cs",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Repositories\\IJobPostingRepo.cs",
-              "RelativeToolTip": "Candidate_Repositories\\IJobPostingRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T10:06:59.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CandidateManagementContext.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\CandidateManagementContext.cs",
               "RelativeDocumentMoniker": "Candidate_Dao\\CandidateManagementContext.cs",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\CandidateManagementContext.cs",
               "RelativeToolTip": "Candidate_Dao\\CandidateManagementContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T09:29:04.863Z",
+              "WhenOpened": "2024-10-02T09:46:36.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HRAccountDAO.cs",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\HRAccountDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_Dao\\HRAccountDAO.cs",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\HRAccountDAO.cs",
-              "RelativeToolTip": "Candidate_Dao\\HRAccountDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T09:27:47.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:28:12.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JobPostingDAO.cs",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\JobPostingDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_Dao\\JobPostingDAO.cs",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\Candidate_Dao\\JobPostingDAO.cs",
-              "RelativeToolTip": "Candidate_Dao\\JobPostingDAO.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T09:28:02.592Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:28:12.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CandidateManagement_VuThanhDat\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CandidateManagement_VuThanhDat\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T09:19:26.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:28:12.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:28:12.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:28:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:28:12.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:28:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:28:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:28:11.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:28:11.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:24:52.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:24:52.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:24:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:24:51.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:24:51.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:24:51.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "JobPostingWindow.xaml",
-              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\JobPostingWindow.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_VuThanhDat\\JobPostingWindow.xaml",
-              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\JobPostingWindow.xaml",
-              "RelativeToolTip": "CandidateManagement_VuThanhDat\\JobPostingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-14T09:04:55.549Z",
-              "EditorCaption": ""
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:24:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:24:50.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml.cs",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:24:50.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml",
+              "RelativeToolTip": "CandidateRazorWeb\\Pages\\ProfilePage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:24:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CandidateRazorWeb.csproj",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\CandidateRazorWeb.csproj",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\CandidateRazorWeb.csproj",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\CandidateRazorWeb.csproj",
+              "RelativeToolTip": "CandidateRazorWeb\\CandidateRazorWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T09:13:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagement_VuThanhDat\\appsettings.json",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateManagement_VuThanhDat\\appsettings.json",
+              "RelativeToolTip": "CandidateManagement_VuThanhDat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:13:32.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateRazorWeb\\appsettings.json",
+              "ToolTip": "E:\\NewUniversityStuff\\PRN221\\thithu\\PRN221PE_FA22_TrialTest_VuThanhDat\\CandidateRazorWeb\\appsettings.json",
+              "RelativeToolTip": "CandidateRazorWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:13:07.383Z"
             }
           ]
         }

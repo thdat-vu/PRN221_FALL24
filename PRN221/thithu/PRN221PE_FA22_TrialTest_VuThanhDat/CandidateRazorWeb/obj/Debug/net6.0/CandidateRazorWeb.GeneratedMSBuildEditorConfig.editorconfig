@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CandidateRazorWeb
+build_property.RootNamespace = CandidateRazorWeb
+build_property.ProjectDir = E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateRazorWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateRazorWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/JobPostingPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/JobPostingPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/JobPostingPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/JobPostingPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/JobPostingPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iUG9zdGluZ1BhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/ProfilePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/ProfilePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/ProfilePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/ProfilePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/ProfilePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/NewUniversityStuff/PRN221/thithu/PRN221PE_FA22_TrialTest_VuThanhDat/CandidateRazorWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uc2rqcx0ln

@@ -13,5 +13,8 @@ namespace Candidate_Repositories
         public JobPosting GetJobPosting(string jobId);
         public bool UpdateJobPosting(JobPosting jobPosting);
         public bool DeleteJobPosting(string jobId);
+
+        public List<JobPosting> GetJobPostings();
+        
     }
 }

@@ -1,0 +1,11 @@
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\bin\Debug\net6.0\CandidateUtils.deps.json
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\bin\Debug\net6.0\CandidateUtils.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\bin\Debug\net6.0\CandidateUtils.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.AssemblyInfoInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.AssemblyInfo.cs
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.csproj.CoreCompileInputs.cache
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\refint\CandidateUtils.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\CandidateUtils.pdb
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateUtils\obj\Debug\net6.0\ref\CandidateUtils.dll

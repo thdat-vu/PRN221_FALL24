@@ -60,3 +60,12 @@ E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\Candidate
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\obj\Debug\net6.0-windows\CandidateManagement_VuThanhDat.pdb
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\obj\Debug\net6.0-windows\CandidateManagement_VuThanhDat.genruntimeconfig.cache
 E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\obj\Debug\net6.0-windows\ref\CandidateManagement_VuThanhDat.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\obj\Debug\net6.0-windows\CandidateProfileWindow.g.cs
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\obj\Debug\net6.0-windows\CandidateProfileWindow.baml
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\appsettings.json
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NewUniversityStuff\PRN221\thithu\PRN221PE_FA22_TrialTest_VuThanhDat\CandidateManagement_VuThanhDat\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll

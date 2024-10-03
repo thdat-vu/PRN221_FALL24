@@ -27,6 +27,10 @@ namespace Candidate_Daos
                 return instance;
             }
         }
+        public List<JobPosting> GetJobPostings()
+        {
+            return context.JobPostings.ToList();
+        }
         public bool AddJobPosting(JobPosting jobPosting)
         {
             bool isSuccess = false;
@@ -56,7 +60,8 @@ namespace Candidate_Daos
                 if (job != null)
                 {
                     //xử hàm update
-                    context.JobPostings.Update(jobPosting);
+                    // context.JobPostings.Update(jobPosting); ko xài đc
+                    context.Entry(job).CurrentValues.SetValues(jobPosting);
                     context.SaveChanges();
                     isSuccess = true;
                 }
@@ -76,7 +81,6 @@ namespace Candidate_Daos
                 JobPosting job = GetJobPosting(jobId);
                 if (job != null)
                 {
-                    //xử hàm update
                     context.JobPostings.Remove(job);
                     isSuccess = true;
                 }

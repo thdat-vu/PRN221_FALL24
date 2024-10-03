@@ -12,4 +12,10 @@
     <ProjectReference Include="..\Candidate_Services\Candidate_Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
